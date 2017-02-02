@@ -34,7 +34,7 @@
     "karma-phantomjs-launcher": "1.0.1"
   },
   "peerDependencies": {
-    "angular": "1.5.x"
+    "angular": "^1.5.x"
   },
   "scripts": {
     "prepublish": "grunt",
